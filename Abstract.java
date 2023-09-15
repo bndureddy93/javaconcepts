@@ -31,7 +31,8 @@ class TestClass{
 		b=new SBI();
 		System.out.println(b.getrateofintreset());
 		b=new BOFA();
-		System.out.printn(b.getrateofinterest();)
+		System.out.printn(b.getrateofinterest();
+		System.out.printn(b.getrateofinterest();
 		
 	}
 
